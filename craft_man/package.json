@@ -1,0 +1,14 @@
+{
+  "name": "craft_man",
+  "version": "1.0.0",
+  "description": "spike of craft_man",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "author": "henrysu",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
